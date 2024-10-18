@@ -7,5 +7,5 @@ Blacklist entries will be sorted, everything else will just be copied directly t
 
 ## Usage
 ```
-saxon -xsl:sort-mediathek-xml.xsl -s:mediathek.xml -o:mediathek-sorted.xml
+saxon -xsl:mediathek-sorter.xsl -s:mediathek.xml -o:mediathek-sorted.xml
 ```
