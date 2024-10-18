@@ -1008,15 +1008,15 @@
 	<Blacklist-ausgeschaltet>true</Blacklist-ausgeschaltet>
 	<Blacklist-Filmlaenge>0</Blacklist-Filmlaenge>
 	<Blacklist-ist-Whitelist/>
-	<Blacklist-Start-ausgeschaltet>true</Blacklist-Start-ausgeschaltet>
+	<Blacklist-Start-ausgeschaltet>false</Blacklist-Start-ausgeschaltet>
 	<Blacklist-Zukunft-nicht-anzeigen/>
 	<Dialog-Download-D-Starten>true</Dialog-Download-D-Starten>
 	<download-error-msg>true</download-error-msg>
 	<Download-Ordner-oeffnen/>
 	<Download-sofort-starten>false</Download-sofort-starten>
 	<Eigenschaften-Tabellen-Abos/>
-	<Eigenschaften-Tabellen-Downloads>75,75,150,100,150,343,50,50,100,100,100,100,100,100,100,50,50,0,100,0,0,200,0,0,200,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39|0|ASCENDING</Eigenschaften-Tabellen-Downloads>
-	<Eigenschaften-Tabellen-Filme>75,100,294,493,20,20,20,85,49,100,100,50,50,100,500,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0,0|7|DESCENDING</Eigenschaften-Tabellen-Filme>
+	<Eigenschaften-Tabellen-Downloads>75,75,150,100,150,250,50,50,100,100,100,100,100,100,100,50,50,0,100,0,0,200,0,0,200,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39||</Eigenschaften-Tabellen-Downloads>
+	<Eigenschaften-Tabellen-Filme>75,100,200,300,20,20,20,100,100,100,100,50,50,100,500,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0,0|7|DESCENDING</Eigenschaften-Tabellen-Filme>
 	<Ersetzungstabelle-verwenden>false</Ersetzungstabelle-verwenden>
 	<FARBE_BUTTON_SET_ABSPIELEN/>
 	<FARBE_DOWNLOAD_ANSEHEN/>
@@ -1042,11 +1042,11 @@
 	<FARBE_FILMLISTE_LADEN_AKTIV/>
 	<FARBE_FILTER_REGEX/>
 	<FARBE_FILTER_REGEX_FEHLER/>
-	<Hinweis-Nr-angezeigt>12</Hinweis-Nr-angezeigt>
+	<Hinweis-Nr-angezeigt/>
 	<Meldungsfenster-Playermeldungen/>
 	<Meldungsfenster-Systemmeldungen/>
 	<nur-ascii>false</nur-ascii>
-	<Pfade-zum-Speichern>C:\Users\Michael\Videos\Cinéma - Films</Pfade-zum-Speichern>
+	<Pfade-zum-Speichern>C:\Users\Michael\Videos\</Pfade-zum-Speichern>
 	<pfad-ffmpeg>bin\ffmpeg.exe</pfad-ffmpeg>
 	<pfad-vlc>C:\Program Files\VideoLAN\VLC\vlc.exe</pfad-vlc>
 	<Player-zum-Abspielen/>
@@ -1071,7 +1071,7 @@
 	<Praefix>http</Praefix>
 	<Suffix>mp4,mp3,m4v,flv,m4a</Suffix>
 	<Zielpfad>C:\Users\Michael\Videos</Zielpfad>
-	<Zieldateiname>%t-%T-%z</Zieldateiname>
+	<Zieldateiname>%T.%S</Zieldateiname>
 	<Thema-anlegen>true</Thema-anlegen>
 	<Abspielen>false</Abspielen>
 	<Speichern>true</Speichern>
@@ -1080,6 +1080,7 @@
 	<Laenge>true</Laenge>
 	<Laenge-Feld>false</Laenge-Feld>
 	<max-Laenge>100</max-Laenge>
+	<max-Laenge-Feld>10</max-Laenge-Feld>
 	<Aufloesung>normal</Aufloesung>
 	<Beschreibung>Standardset zum Speichern der Filme</Beschreibung>
 	<Infodatei>false</Infodatei>
@@ -1088,7 +1089,7 @@
 </Programmset>
 <Programm>
 	<Programmname>ffmpeg</Programmname>
-	<Zieldateiname>%t-%T-%Z.mp4</Zieldateiname>
+	<Zieldateiname>%T.mp4</Zieldateiname>
 	<Programmpfad>bin\ffmpeg.exe</Programmpfad>
 	<Programmschalter>-i %f -c copy -bsf:a aac_adtstoasc "**"</Programmschalter>
 	<Praefix>http</Praefix>
@@ -1100,7 +1101,7 @@
 	<Programmname>vlc ( &lt;#&gt; )</Programmname>
 	<Zieldateiname>%t-%T-%Z.ts</Zieldateiname>
 	<Programmpfad>cmd</Programmpfad>
-	<Programmschalter>/c "" %f :sout=#standard{access=file,mux=ts,dst="**"} -I "dummy" --play-and-exit</Programmschalter>
+	<Programmschalter>/c "C:\Program Files\VideoLAN\VLC\vlc.exe" %f :sout=#standard{access=file,mux=ts,dst="**"} -I "dummy" --play-and-exit</Programmschalter>
 	<Restart>false</Restart>
 	<Downloadmanager>false</Downloadmanager>
 </Programm>
@@ -1122,6 +1123,7 @@
 </Programmset>
 <Programm>
 	<Programmname>Vlc</Programmname>
+	<Programmpfad>C:\Program Files\VideoLAN\VLC\vlc.exe</Programmpfad>
 	<Programmschalter>%f --play-and-exit</Programmschalter>
 	<Restart>false</Restart>
 	<Downloadmanager>false</Downloadmanager>
