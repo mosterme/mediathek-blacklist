@@ -1207,7 +1207,7 @@
 	<Abos-sofort-suchen>true</Abos-sofort-suchen>
 	<Ansicht-Set-lang/>
 	<Blacklist-auch-Abo/>
-	<Blacklist-ausgeschaltet>true</Blacklist-ausgeschaltet>
+	<Blacklist-ausgeschaltet>false</Blacklist-ausgeschaltet>
 	<Blacklist-Filmlaenge>0</Blacklist-Filmlaenge>
 	<Blacklist-ist-Whitelist/>
 	<Blacklist-Start-ausgeschaltet>false</Blacklist-Start-ausgeschaltet>
@@ -1218,7 +1218,7 @@
 	<Download-sofort-starten>false</Download-sofort-starten>
 	<Eigenschaften-Tabellen-Abos/>
 	<Eigenschaften-Tabellen-Downloads>75,75,150,100,150,250,50,50,100,100,100,100,100,100,100,50,50,0,100,0,0,200,0,0,200,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39||</Eigenschaften-Tabellen-Downloads>
-	<Eigenschaften-Tabellen-Filme>75,100,200,300,20,20,20,100,100,100,100,50,50,100,500,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0,0|7|DESCENDING</Eigenschaften-Tabellen-Filme>
+	<Eigenschaften-Tabellen-Filme>75,100,300,400,20,20,20,100,100,100,100,50,50,100,500,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0,0|7|DESCENDING</Eigenschaften-Tabellen-Filme>
 	<Ersetzungstabelle-verwenden>false</Ersetzungstabelle-verwenden>
 	<FARBE_BUTTON_SET_ABSPIELEN/>
 	<FARBE_DOWNLOAD_ANSEHEN/>
@@ -1236,6 +1236,7 @@
 	<FARBE_DOWNLOAD_WAIT/>
 	<FARBE_DOWNLOAD_WAIT_SEL/>
 	<FARBE_FILM_BOOKMARKED/>
+	<FARBE_FILM_DUPLICATE/>
 	<FARBE_FILM_GEOBLOCK_BACKGROUND/>
 	<FARBE_FILM_GEOBLOCK_BACKGROUND_SEL/>
 	<FARBE_FILM_HISTORY/>
@@ -1248,9 +1249,9 @@
 	<Meldungsfenster-Playermeldungen/>
 	<Meldungsfenster-Systemmeldungen/>
 	<nur-ascii>false</nur-ascii>
-	<Pfade-zum-Speichern>C:\Users\Michael\Videos\</Pfade-zum-Speichern>
-	<pfad-ffmpeg>bin\ffmpeg.exe</pfad-ffmpeg>
-	<pfad-vlc>C:\Program Files\VideoLAN\VLC\vlc.exe</pfad-vlc>
+	<Pfade-zum-Speichern>/home/michael/Downloads/</Pfade-zum-Speichern>
+	<pfad-ffmpeg>/usr/bin/ffmpeg</pfad-ffmpeg>
+	<pfad-vlc>/usr/bin/vlc</pfad-vlc>
 	<Player-zum-Abspielen/>
 	<Programm-Linux-Shutdown>shutdown -h now</Programm-Linux-Shutdown>
 	<Programm-Url-oeffnen/>
@@ -1269,20 +1270,19 @@
 </system>
 
 <Programmset>
-	<Name>Speichern</Name>
+	<Name>Linux Speichern</Name>
 	<Praefix>http</Praefix>
 	<Suffix>mp4,mp3,m4v,flv,m4a</Suffix>
-	<Zielpfad>C:\Users\Michael\Videos</Zielpfad>
+	<Zielpfad>/home/michael/Downloads</Zielpfad>
 	<Zieldateiname>%T.%S</Zieldateiname>
 	<Thema-anlegen>true</Thema-anlegen>
 	<Abspielen>false</Abspielen>
 	<Speichern>true</Speichern>
 	<Button>true</Button>
 	<Abo>true</Abo>
-	<Laenge>true</Laenge>
+	<Laenge>false</Laenge>
 	<Laenge-Feld>false</Laenge-Feld>
-	<max-Laenge>100</max-Laenge>
-	<max-Laenge-Feld>10</max-Laenge-Feld>
+	<max-Laenge>25</max-Laenge>
 	<Aufloesung>normal</Aufloesung>
 	<Beschreibung>Standardset zum Speichern der Filme</Beschreibung>
 	<Infodatei>false</Infodatei>
@@ -1292,7 +1292,7 @@
 <Programm>
 	<Programmname>ffmpeg</Programmname>
 	<Zieldateiname>%T.mp4</Zieldateiname>
-	<Programmpfad>bin\ffmpeg.exe</Programmpfad>
+	<Programmpfad>/usr/bin/ffmpeg</Programmpfad>
 	<Programmschalter>-i %f -c copy -bsf:a aac_adtstoasc "**"</Programmschalter>
 	<Praefix>http</Praefix>
 	<Suffix>m3u8</Suffix>
@@ -1300,15 +1300,15 @@
 	<Downloadmanager>false</Downloadmanager>
 </Programm>
 <Programm>
-	<Programmname>vlc ( &lt;#&gt; )</Programmname>
+	<Programmname>VLC</Programmname>
 	<Zieldateiname>%t-%T-%Z.ts</Zieldateiname>
-	<Programmpfad>cmd</Programmpfad>
-	<Programmschalter>/c "C:\Program Files\VideoLAN\VLC\vlc.exe" %f :sout=#standard{access=file,mux=ts,dst="**"} -I "dummy" --play-and-exit</Programmschalter>
+	<Programmpfad>/usr/bin/vlc</Programmpfad>
+	<Programmschalter>%f :sout=#standard{access=file,mux=ts,dst="**"} -I "dummy" --play-and-exit</Programmschalter>
 	<Restart>false</Restart>
 	<Downloadmanager>false</Downloadmanager>
 </Programm>
 <Programmset>
-	<Name>Abspielen</Name>
+	<Name>Linux Abspielen</Name>
 	<Thema-anlegen>true</Thema-anlegen>
 	<Abspielen>true</Abspielen>
 	<Speichern>false</Speichern>
@@ -1325,12 +1325,10 @@
 </Programmset>
 <Programm>
 	<Programmname>Vlc</Programmname>
-	<Programmpfad>C:\Program Files\VideoLAN\VLC\vlc.exe</Programmpfad>
+	<Programmpfad>/usr/bin/vlc</Programmpfad>
 	<Programmschalter>%f --play-and-exit</Programmschalter>
 	<Restart>false</Restart>
 	<Downloadmanager>false</Downloadmanager>
 </Programm>
-
-<Ersetzungstabelle><von> </von><nach>_</nach></Ersetzungstabelle>
 
 </Mediathek>
