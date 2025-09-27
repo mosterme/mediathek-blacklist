@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <Mediathek>
 
 <!-- Alphabetically sorted Blacklist -->
@@ -420,6 +421,7 @@
 <Blacklist><black-thema>Hauptsache gesund</black-thema></Blacklist>
 <Blacklist><black-thema>Heimspiel - Europa am Ball</black-thema></Blacklist>
 <Blacklist><black-thema>Herrschaftszeiten!  Staffel 5</black-thema></Blacklist>
+<Blacklist><black-thema>Herrschaftszeiten! Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Hessen à la carte</black-thema></Blacklist>
 <Blacklist><black-thema>Heute im Osten</black-thema></Blacklist>
 <Blacklist><black-thema>Heute im Parlament</black-thema></Blacklist>
@@ -431,6 +433,7 @@
 <Blacklist><black-thema>Hockey</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Damen Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Herren Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Hockey: Europameisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Hubert ohne Staller</black-thema></Blacklist>
 <Blacklist><black-thema>Ich mach's!</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft</black-thema></Blacklist>
@@ -445,6 +448,8 @@
 <Blacklist><black-thema>Kaisermühlen Blues Staffel 3</black-thema></Blacklist>
 <Blacklist><black-thema>Kaisermühlen Blues Staffel 4</black-thema></Blacklist>
 <Blacklist><black-thema>Kaisermühlen Blues Staffel 5</black-thema></Blacklist>
+<Blacklist><black-thema>Kaisermühlen Blues Staffel 6</black-thema></Blacklist>
+<Blacklist><black-thema>Kaisermühlen Blues Staffel 7</black-thema></Blacklist>
 <Blacklist><black-thema>Kassensturz in Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Kein Keks für Kobolde</black-thema></Blacklist>
 <Blacklist><black-thema>KiKA LIVE</black-thema></Blacklist>
@@ -452,6 +457,7 @@
 <Blacklist><black-thema>Kick off!</black-thema></Blacklist>
 <Blacklist><black-thema>Kickbox</black-thema></Blacklist>
 <Blacklist><black-thema>King Julien - Staffel 1</black-thema></Blacklist>
+<Blacklist><black-thema>King Julien - Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Kiwi Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Kleine Prinzessin</black-thema></Blacklist>
 <Blacklist><black-thema>Kleine lustige Krabbler</black-thema></Blacklist>
@@ -626,6 +632,7 @@
 <Blacklist><black-thema>Plenarsitzung des Nationalrates mit Rede des ukrainischen Parlamentspräsidenten</black-thema></Blacklist>
 <Blacklist><black-thema>Plusminus</black-thema></Blacklist>
 <Blacklist><black-thema>Politik</black-thema></Blacklist>
+<Blacklist><black-thema>Polizeiruf 110 - Klassiker</black-thema></Blacklist>
 <Blacklist><black-thema>Power Players</black-thema></Blacklist>
 <Blacklist><black-thema>Power Sisters</black-thema></Blacklist>
 <Blacklist><black-thema>Pressefoyer nach dem Ministerrat</black-thema></Blacklist>
@@ -760,6 +767,8 @@
 <Blacklist><black-thema>Show &amp; Musik</black-thema></Blacklist>
 <Blacklist><black-thema>Sisi Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Sisi Staffel 2</black-thema></Blacklist>
+<Blacklist><black-thema>Sisi Staffel 3</black-thema></Blacklist>
+<Blacklist><black-thema>Sisi Staffel 4</black-thema></Blacklist>
 <Blacklist><black-thema>Skeleton Weltcup: Damen und Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Skeleton: Weltcup Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Skeleton: Weltcup Herren</black-thema></Blacklist>
@@ -885,6 +894,7 @@
 <Blacklist><black-thema>Tagesschau</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesschau in 100 Sekunden</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesschau in Gebärdensprache</black-thema></Blacklist>
+<Blacklist><black-thema>Tagesschau kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesschau mit Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesschau vor 25 Jahren</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesthemen</black-thema></Blacklist>
@@ -921,6 +931,8 @@
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
 <Blacklist><black-thema>Traumpaar</black-thema></Blacklist>
 <Blacklist><black-thema>Trend – das Bildungsmagazin</black-thema></Blacklist>
+<Blacklist><black-thema>Triathlon Österreichische Meisterschaften</black-thema></Blacklist>
+<Blacklist><black-thema>Turbo FAST Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Täter - Opfer - Polizei</black-thema></Blacklist>
 <Blacklist><black-thema>U21-EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Champions League</black-thema></Blacklist>
@@ -1060,6 +1072,7 @@
 <Blacklist><black-thema>ZIB Flash 17.50</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 19.56</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB Magazin Kino</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin Klima</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Nacht</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Spezial</black-thema></Blacklist>
@@ -1226,6 +1239,8 @@
 <Blacklist><black-thema>ÖFB-Cup 1. Runde</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup 3. Runde</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup Viertelfinale</black-thema></Blacklist>
+<Blacklist><black-thema>Österreich - Die ganze Geschichte Staffel 1</black-thema></Blacklist>
+<Blacklist><black-thema>Österreich - Die ganze Geschichte Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Österreich Heute</black-thema></Blacklist>
 <Blacklist><black-thema>Österreich Heute - Das Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Österreich-Bild</black-thema></Blacklist>
