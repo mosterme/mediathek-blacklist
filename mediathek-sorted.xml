@@ -61,6 +61,9 @@
 <Blacklist><black-thema>ARD Mittagsmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>ARD extra</black-thema></Blacklist>
 <Blacklist><black-thema>ARD-Buffet</black-thema></Blacklist>
+<Blacklist><black-thema>ARTE Concert - Opera</black-thema></Blacklist>
+<Blacklist><black-thema>ARTE Concert - Opéra</black-thema></Blacklist>
+<Blacklist><black-thema>ARTE Concert - Ópera</black-thema></Blacklist>
 <Blacklist><black-thema>ARTE Journal</black-thema></Blacklist>
 <Blacklist><black-thema>ATP Challenger Salzburg Open</black-thema></Blacklist>
 <Blacklist><black-thema>AUS CHRISTLICHER SICHT</black-thema></Blacklist>
@@ -189,6 +192,8 @@
 <Blacklist><black-thema>CopStories Staffel 3</black-thema></Blacklist>
 <Blacklist><black-thema>CopStories Staffel 4</black-thema></Blacklist>
 <Blacklist><black-thema>Coronavirus-Update NDR Info</black-thema></Blacklist>
+<Blacklist><black-thema>Culture et pop - Arts</black-thema></Blacklist>
+<Blacklist><black-thema>Culture et pop - Culture pop</black-thema></Blacklist>
 <Blacklist><black-thema>DEIN VfB</black-thema></Blacklist>
 <Blacklist><black-thema>DER TAG in Berlin &amp; Brandenburg</black-thema></Blacklist>
 <Blacklist><black-thema>DFB-Pokal</black-thema></Blacklist>
@@ -456,8 +461,11 @@
 <Blacklist><black-thema>Hexe Lilli Staffel 3</black-thema></Blacklist>
 <Blacklist><black-thema>Hier und heute</black-thema></Blacklist>
 <Blacklist><black-thema>Hier und heute Reportage</black-thema></Blacklist>
+<Blacklist><black-thema>Histoire - Civilisations</black-thema></Blacklist>
+<Blacklist><black-thema>Histoire - XXe siècle</black-thema></Blacklist>
 <Blacklist><black-thema>Historia - Civilizaciones</black-thema></Blacklist>
 <Blacklist><black-thema>Historia - Cywilizacje</black-thema></Blacklist>
+<Blacklist><black-thema>History - Civilisations</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Damen Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Herren Bundesliga</black-thema></Blacklist>
@@ -468,6 +476,8 @@
 <Blacklist><black-thema>In aller Freundschaft</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft - Die jungen Ärzte</black-thema></Blacklist>
 <Blacklist><black-thema>Industriebetriebe in NÖ</black-thema></Blacklist>
+<Blacklist><black-thema>Info et société - Autrement vu</black-thema></Blacklist>
+<Blacklist><black-thema>Info et société - Décryptages</black-thema></Blacklist>
 <Blacklist><black-thema>Info et société - Enquêtes et reportages</black-thema></Blacklist>
 <Blacklist><black-thema>Jahresrückblick</black-thema></Blacklist>
 <Blacklist><black-thema>Josefine, Törtel und die Tiere</black-thema></Blacklist>
@@ -658,6 +668,7 @@
 <Blacklist><black-thema>ORF III Aktuell am Abend</black-thema></Blacklist>
 <Blacklist><black-thema>ORF III Aktuell am Nachmittag</black-thema></Blacklist>
 <Blacklist><black-thema>ORF NÖ Finanztipp</black-thema></Blacklist>
+<Blacklist><black-thema>ORF ON Extra - Dokus &amp; Reportagen</black-thema></Blacklist>
 <Blacklist><black-thema>ORF-Programmpräsentation</black-thema></Blacklist>
 <Blacklist><black-thema>Oberösterreich heute</black-thema></Blacklist>
 <Blacklist><black-thema>Oberösterreich heute kompakt</black-thema></Blacklist>
@@ -687,11 +698,13 @@
 <Blacklist><black-thema>Planet Wissen</black-thema></Blacklist>
 <Blacklist><black-thema>Plenarsitzung des Nationalrates mit Rede des ukrainischen Parlamentspräsidenten</black-thema></Blacklist>
 <Blacklist><black-thema>Plusminus</black-thema></Blacklist>
+<Blacklist><black-thema>Politica e società - Inchieste e reportage</black-thema></Blacklist>
 <Blacklist><black-thema>Politik</black-thema></Blacklist>
 <Blacklist><black-thema>Polityka i społeczeństwo - Analizy</black-thema></Blacklist>
 <Blacklist><black-thema>Polityka i społeczeństwo - Seriale śledcze i reportaże</black-thema></Blacklist>
 <Blacklist><black-thema>Polizeiruf 110</black-thema></Blacklist>
 <Blacklist><black-thema>Polizeiruf 110 - Klassiker</black-thema></Blacklist>
+<Blacklist><black-thema>Política y sociedad - Investigaciones y reportajes</black-thema></Blacklist>
 <Blacklist><black-thema>Power Players</black-thema></Blacklist>
 <Blacklist><black-thema>Power Sisters</black-thema></Blacklist>
 <Blacklist><black-thema>Pressefoyer nach dem Ministerrat</black-thema></Blacklist>
@@ -818,6 +831,7 @@
 <Blacklist><black-thema>Schweiz aktuell in Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Schwimm-WM 2025</black-thema></Blacklist>
 <Blacklist><black-thema>Schwimmen</black-thema></Blacklist>
+<Blacklist><black-thema>Sciences - Technologies et innovations</black-thema></Blacklist>
 <Blacklist><black-thema>Scienze - In pillole</black-thema></Blacklist>
 <Blacklist><black-thema>Seehund, Puma &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Seelöwe &amp; Co. - tierisch beliebt</black-thema></Blacklist>
@@ -966,6 +980,7 @@
 <Blacklist><black-thema>Super Wings</black-thema></Blacklist>
 <Blacklist><black-thema>Super-G der Damen Zauchensee</black-thema></Blacklist>
 <Blacklist><black-thema>Superhero Academy</black-thema></Blacklist>
+<Blacklist><black-thema>Séries et fictions - Séries</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol Heute</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol heute</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol heute kompakt</black-thema></Blacklist>
@@ -1054,6 +1069,10 @@
 <Blacklist><black-thema>Von Rhein, Main und Neckar</black-thema></Blacklist>
 <Blacklist><black-thema>Vorarlberg heute</black-thema></Blacklist>
 <Blacklist><black-thema>Vorarlberg heute kompakt</black-thema></Blacklist>
+<Blacklist><black-thema>Voyages et découvertes - A table !</black-thema></Blacklist>
+<Blacklist><black-thema>Voyages et découvertes - Evasion</black-thema></Blacklist>
+<Blacklist><black-thema>Voyages et découvertes - Nature et animaux</black-thema></Blacklist>
+<Blacklist><black-thema>Voyages et découvertes - Vies d'ailleurs</black-thema></Blacklist>
 <Blacklist><black-thema>W wie Wissen</black-thema></Blacklist>
 <Blacklist><black-thema>WDR Retro ∙ Hier und heute</black-thema></Blacklist>
 <Blacklist><black-thema>WDR Retro ∙ Spezial</black-thema></Blacklist>
