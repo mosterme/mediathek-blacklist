@@ -110,6 +110,7 @@
 <Blacklist><black-thema>BR24Sport im BR Fernsehen</black-thema></Blacklist>
 <Blacklist><black-thema>BR24extra</black-thema></Blacklist>
 <Blacklist><black-thema>BRISANT</black-thema></Blacklist>
+<Blacklist><black-thema>Bakabu Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Barbara Karlich - Talk um 4</black-thema></Blacklist>
 <Blacklist><black-thema>Bares für Rares</black-thema></Blacklist>
 <Blacklist><black-thema>Basketball Herren Superliga</black-thema></Blacklist>
@@ -118,6 +119,7 @@
 <Blacklist><black-thema>Basketball Herren-WM-Qualifikation 2027</black-thema></Blacklist>
 <Blacklist><black-thema>Basketball: 3x3 World Tour Masters</black-thema></Blacklist>
 <Blacklist><black-thema>Basketball: EM-Qualifikation</black-thema></Blacklist>
+<Blacklist><black-thema>Basketball: Superliga Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Basketball: Superliga Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Baumhaus</black-thema></Blacklist>
 <Blacklist><black-thema>Bayerischer Filmpreis</black-thema></Blacklist>
@@ -151,6 +153,7 @@
 <Blacklist><black-thema>Biester Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Bilder allein zuhaus</black-thema></Blacklist>
 <Blacklist><black-thema>Bilder aus Südtirol</black-thema></Blacklist>
+<Blacklist><black-thema>Billard: Pool Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Bingo! - Die Umweltlotterie</black-thema></Blacklist>
 <Blacklist><black-thema>Blickpunkt Sport</black-thema></Blacklist>
 <Blacklist><black-thema>Bob Ross</black-thema></Blacklist>
@@ -166,6 +169,7 @@
 <Blacklist><black-thema>Bundesliga - 2025/26</black-thema></Blacklist>
 <Blacklist><black-thema>Bundesliga 2025/26</black-thema></Blacklist>
 <Blacklist><black-thema>Bundesliga der Frauen</black-thema></Blacklist>
+<Blacklist><black-thema>Bundesliga der Frauen - 2025/26</black-thema></Blacklist>
 <Blacklist><black-thema>Bundesrat in Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Bundesratsenquete</black-thema></Blacklist>
 <Blacklist><black-thema>Bundesratssitzung</black-thema></Blacklist>
@@ -185,12 +189,15 @@
 <Blacklist><black-thema>Champion der Champions</black-thema></Blacklist>
 <Blacklist><black-thema>Champions League - 2025/26</black-thema></Blacklist>
 <Blacklist><black-thema>Champions League Saison 2025/26</black-thema></Blacklist>
+<Blacklist><black-thema>Champions League der Frauen</black-thema></Blacklist>
 <Blacklist><black-thema>Champions League – Highlights</black-thema></Blacklist>
 <Blacklist><black-thema>Checker Reportagen</black-thema></Blacklist>
 <Blacklist><black-thema>Checker Tobi</black-thema></Blacklist>
 <Blacklist><black-thema>Ciencias - Al grano</black-thema></Blacklist>
+<Blacklist><black-thema>Cinéma - Actualité du cinéma</black-thema></Blacklist>
 <Blacklist><black-thema>Cleopatra im Weltraum Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Club der magischen Dinge</black-thema></Blacklist>
+<Blacklist><black-thema>Club der magischen Dinge Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Conference League Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>CopStories Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>CopStories Staffel 2</black-thema></Blacklist>
@@ -199,6 +206,7 @@
 <Blacklist><black-thema>Coronavirus-Update NDR Info</black-thema></Blacklist>
 <Blacklist><black-thema>Culture et pop - Arts</black-thema></Blacklist>
 <Blacklist><black-thema>Culture et pop - Culture pop</black-thema></Blacklist>
+<Blacklist><black-thema>DAVE Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>DEIN FCK</black-thema></Blacklist>
 <Blacklist><black-thema>DEIN FSV</black-thema></Blacklist>
 <Blacklist><black-thema>DEIN VfB</black-thema></Blacklist>
@@ -242,7 +250,11 @@
 <Blacklist><black-thema>Der Nationalfeiertag - Kranzniederlegung, Angelobung, Sonderministerrat</black-thema></Blacklist>
 <Blacklist><black-thema>Der Staatsanwalt Staffel 13</black-thema></Blacklist>
 <Blacklist><black-thema>Der Tag</black-thema></Blacklist>
+<Blacklist><black-thema>Der Weg zu den paralympischen Spielen 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Der Winzerkönig</black-thema></Blacklist>
+<Blacklist><black-thema>Der Winzerkönig Staffel 1</black-thema></Blacklist>
+<Blacklist><black-thema>Der Winzerkönig Staffel 2</black-thema></Blacklist>
+<Blacklist><black-thema>Der gestiefelte Kater - Abenteuer in San Lorenzo Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Der kleine Rabe Socke</black-thema></Blacklist>
 <Blacklist><black-thema>Die Abenteuer des jungen Marco Polo</black-thema></Blacklist>
 <Blacklist><black-thema>Die Abenteuer des jungen Marco Polo Staffel 2</black-thema></Blacklist>
@@ -262,6 +274,7 @@
 <Blacklist><black-thema>Die Kanzlei</black-thema></Blacklist>
 <Blacklist><black-thema>Die Küchenschlacht</black-thema></Blacklist>
 <Blacklist><black-thema>Die Küchenschlacht - Koch-Show</black-thema></Blacklist>
+<Blacklist><black-thema>Die Millionenshow</black-thema></Blacklist>
 <Blacklist><black-thema>Die Mixed-WG - Fiesta Gran Canaria</black-thema></Blacklist>
 <Blacklist><black-thema>Die Muskeltiere</black-thema></Blacklist>
 <Blacklist><black-thema>Die NDR Quizshow</black-thema></Blacklist>
@@ -328,6 +341,7 @@
 <Blacklist><black-thema>Eishockey: ICE Hockey League</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey: Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Eiskunstlauf-EM 2026</black-thema></Blacklist>
+<Blacklist><black-thema>Eiskunstlauf-WM 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Elefant, Tiger &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Elefant, Tiger &amp; Kids</black-thema></Blacklist>
 <Blacklist><black-thema>Elizabeth II.</black-thema></Blacklist>
@@ -340,11 +354,13 @@
 <Blacklist><black-thema>Euromaxx</black-thema></Blacklist>
 <Blacklist><black-thema>Europa League</black-thema></Blacklist>
 <Blacklist><black-thema>Europamagazin</black-thema></Blacklist>
+<Blacklist><black-thema>Europapokal - Dynamo Dresden und die legendäre Saison 88/89</black-thema></Blacklist>
 <Blacklist><black-thema>Eurovision School Song Contest</black-thema></Blacklist>
 <Blacklist><black-thema>Eurovision Song Contest</black-thema></Blacklist>
 <Blacklist><black-thema>Exakt</black-thema></Blacklist>
 <Blacklist><black-thema>Experiment Olympia</black-thema></Blacklist>
 <Blacklist><black-thema>FAKT</black-thema></Blacklist>
+<Blacklist><black-thema>FIFA World Cup 2026 Preview</black-thema></Blacklist>
 <Blacklist><black-thema>FIS Ski Weltcup Abfahrt der Herren Kitzbühel</black-thema></Blacklist>
 <Blacklist><black-thema>FIS Ski Weltcup Slalom der Damen Jasna</black-thema></Blacklist>
 <Blacklist><black-thema>FIS Ski Weltcup Slalom der Herren Kitzbühel</black-thema></Blacklist>
@@ -357,6 +373,7 @@
 <Blacklist><black-thema>Fasnacht</black-thema></Blacklist>
 <Blacklist><black-thema>Fastnacht in Franken</black-thema></Blacklist>
 <Blacklist><black-thema>Fernsehfilme und Serien - Kurz und witzig</black-thema></Blacklist>
+<Blacklist><black-thema>Fernsehgeschichte(n) Kommissar Rex</black-thema></Blacklist>
 <Blacklist><black-thema>Fest der Freude - Das Konzert</black-thema></Blacklist>
 <Blacklist><black-thema>Fest der Freude - Der Festakt</black-thema></Blacklist>
 <Blacklist><black-thema>Feuer &amp; Flamme</black-thema></Blacklist>
@@ -366,6 +383,7 @@
 <Blacklist><black-thema>Fisch ahoi!</black-thema></Blacklist>
 <Blacklist><black-thema>Fit Aktiv für Junggebliebene</black-thema></Blacklist>
 <Blacklist><black-thema>Fit mit Philipp</black-thema></Blacklist>
+<Blacklist><black-thema>Fit mit den Stars</black-thema></Blacklist>
 <Blacklist><black-thema>Flash oder Crash</black-thema></Blacklist>
 <Blacklist><black-thema>Flohmarkt</black-thema></Blacklist>
 <Blacklist><black-thema>Fokus Europa</black-thema></Blacklist>
@@ -410,8 +428,10 @@
 <Blacklist><black-thema>Fußball: Frauen WM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: Frauen-Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: Frauen-Cup</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball: Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: Nations League</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: U17-Weltmeisterschaft</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball: U19 EM-Qualifiaktion</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: U21-EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: U21-Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: WM-Qualifikation 2026</black-thema></Blacklist>
@@ -420,11 +440,15 @@
 <Blacklist><black-thema>Fußball: ÖFB Cup Auslosung</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: ÖFB-Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball: ÖFB-Pressekonferenz</black-thema></Blacklist>
+<Blacklist><black-thema>Fünf Freunde 3</black-thema></Blacklist>
 <Blacklist><black-thema>Fünf Freunde 4</black-thema></Blacklist>
+<Blacklist><black-thema>G'sund in Österreich</black-thema></Blacklist>
+<Blacklist><black-thema>G'sund in Österreich (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>GESUNDHEITHEUTE</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Deutsch</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Englisch</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Mathe</black-thema></Blacklist>
+<Blacklist><black-thema>Game of Switzerland</black-thema></Blacklist>
 <Blacklist><black-thema>Garfield</black-thema></Blacklist>
 <Blacklist><black-thema>Garfield Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Garfield Staffel 2</black-thema></Blacklist>
@@ -441,6 +465,7 @@
 <Blacklist><black-thema>Grimme Preis</black-thema></Blacklist>
 <Blacklist><black-thema>Grisu - Der kleine Drache</black-thema></Blacklist>
 <Blacklist><black-thema>Großstadtrevier</black-thema></Blacklist>
+<Blacklist><black-thema>Grüße aus der Küche Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Gudrun die Wikingerprinzessin</black-thema></Blacklist>
 <Blacklist><black-thema>Guetnachtgschichtli</black-thema></Blacklist>
 <Blacklist><black-thema>Gute Nacht Österreich</black-thema></Blacklist>
@@ -464,6 +489,8 @@
 <Blacklist><black-thema>Hamburg Journal 18.00</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal 18:00 Uhr</black-thema></Blacklist>
 <Blacklist><black-thema>Handball</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Cup Damen</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Cup Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Damen WHA Finale Spiel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren EHF European Cup</black-thema></Blacklist>
@@ -473,8 +500,11 @@
 <Blacklist><black-thema>Handball Herren HLA-Finale 2</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren WM-Play-off</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren WM-Vorbereitungsturnier</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren-EM 2028</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Liga Austria</black-thema></Blacklist>
+<Blacklist><black-thema>Handball der Frauen</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-EM</black-thema></Blacklist>
+<Blacklist><black-thema>Handball-EM der Damen 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-EM der Herren 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-WM der Frauen</black-thema></Blacklist>
@@ -482,9 +512,11 @@
 <Blacklist><black-thema>Handball: EHF European League</black-thema></Blacklist>
 <Blacklist><black-thema>Handball: EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Handball: Frauen-Liga WHA</black-thema></Blacklist>
+<Blacklist><black-thema>Handball: Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Handball: WM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Hart aber fair</black-thema></Blacklist>
 <Blacklist><black-thema>Hauptsache gesund</black-thema></Blacklist>
+<Blacklist><black-thema>Heimat Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Heimspiel - Europa am Ball</black-thema></Blacklist>
 <Blacklist><black-thema>Herrschaftszeiten!  Staffel 5</black-thema></Blacklist>
 <Blacklist><black-thema>Herrschaftszeiten! Staffel 1</black-thema></Blacklist>
@@ -506,9 +538,11 @@
 <Blacklist><black-thema>Hockey</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Damen Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Herren Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Hockey: Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey: Europameisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Hohes Haus</black-thema></Blacklist>
 <Blacklist><black-thema>Hubert ohne Staller</black-thema></Blacklist>
+<Blacklist><black-thema>HumorZone 2026 - Die Gala</black-thema></Blacklist>
 <Blacklist><black-thema>Ich mach's!</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft - Die jungen Ärzte</black-thema></Blacklist>
@@ -520,6 +554,7 @@
 <Blacklist><black-thema>Josefine, Törtel und die Tiere</black-thema></Blacklist>
 <Blacklist><black-thema>Judo-Weltmeisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Judo: Bundesliga Final Four</black-thema></Blacklist>
+<Blacklist><black-thema>Judo: Europameisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Judo: World Tour</black-thema></Blacklist>
 <Blacklist><black-thema>Julia - eine ungewöhnliche Frau: Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Julia - eine ungewöhnliche Frau: Staffel 2</black-thema></Blacklist>
@@ -554,6 +589,7 @@
 <Blacklist><black-thema>Knall genial</black-thema></Blacklist>
 <Blacklist><black-thema>Kochen mit Martina und Moritz</black-thema></Blacklist>
 <Blacklist><black-thema>Kochroulette</black-thema></Blacklist>
+<Blacklist><black-thema>Kommissar Rex</black-thema></Blacklist>
 <Blacklist><black-thema>Kommissar Rex Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Kommissar Rex Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Kommissar Rex Staffel 3</black-thema></Blacklist>
@@ -562,6 +598,10 @@
 <Blacklist><black-thema>Kommissar Rex Staffel 6</black-thema></Blacklist>
 <Blacklist><black-thema>Kommissar Rex Staffel 7</black-thema></Blacklist>
 <Blacklist><black-thema>Kommissar Rex Staffel 8</black-thema></Blacklist>
+<Blacklist><black-thema>Kommissar Rex mit Tobias Moretti Staffel 1</black-thema></Blacklist>
+<Blacklist><black-thema>Kommissar Rex mit Tobias Moretti Staffel 2</black-thema></Blacklist>
+<Blacklist><black-thema>Kommissar Rex mit Tobias Moretti Staffel 3</black-thema></Blacklist>
+<Blacklist><black-thema>Kommissar Rex mit Tobias Moretti Staffel 4</black-thema></Blacklist>
 <Blacklist><black-thema>Kommunalwahl in NRW</black-thema></Blacklist>
 <Blacklist><black-thema>Kripo live</black-thema></Blacklist>
 <Blacklist><black-thema>Kulinarium</black-thema></Blacklist>
@@ -592,8 +632,10 @@
 <Blacklist><black-thema>Lebenslinien</black-thema></Blacklist>
 <Blacklist><black-thema>Lecker aufs Land</black-thema></Blacklist>
 <Blacklist><black-thema>Leichtathletik-WM</black-thema></Blacklist>
+<Blacklist><black-thema>Leichtathletik: Hallen-WM 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Leichtathletik: Weltmeisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Lena Lorenz</black-thema></Blacklist>
+<Blacklist><black-thema>Lena Lorenz Staffel 12</black-thema></Blacklist>
 <Blacklist><black-thema>Lena Lorenz: Staffel 11</black-thema></Blacklist>
 <Blacklist><black-thema>Lenas Ranch</black-thema></Blacklist>
 <Blacklist><black-thema>Leo da Vinci</black-thema></Blacklist>
@@ -635,6 +677,7 @@
 <Blacklist><black-thema>MDR um 11</black-thema></Blacklist>
 <Blacklist><black-thema>MDR um 2</black-thema></Blacklist>
 <Blacklist><black-thema>MDR um 4</black-thema></Blacklist>
+<Blacklist><black-thema>MDR um 7 - Die Länder am Feiertag</black-thema></Blacklist>
 <Blacklist><black-thema>MDR um Zwei</black-thema></Blacklist>
 <Blacklist><black-thema>MDR+</black-thema></Blacklist>
 <Blacklist><black-thema>MOOOMENT!</black-thema></Blacklist>
@@ -735,6 +778,7 @@
 <Blacklist><black-thema>Panorama</black-thema></Blacklist>
 <Blacklist><black-thema>Panorama 3</black-thema></Blacklist>
 <Blacklist><black-thema>Paralympics</black-thema></Blacklist>
+<Blacklist><black-thema>Paralympics 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Paralympics Milano Cortina 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Parlament</black-thema></Blacklist>
 <Blacklist><black-thema>Passt, wackelt und hat Luft</black-thema></Blacklist>
@@ -779,6 +823,7 @@
 <Blacklist><black-thema>Prisma</black-thema></Blacklist>
 <Blacklist><black-thema>Puls in Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Q1 Ein Hinweis ist falsch</black-thema></Blacklist>
+<Blacklist><black-thema>Qualifikation zur Fußball-WM</black-thema></Blacklist>
 <Blacklist><black-thema>Quer</black-thema></Blacklist>
 <Blacklist><black-thema>Querbeet</black-thema></Blacklist>
 <Blacklist><black-thema>Quiz</black-thema></Blacklist>
@@ -787,6 +832,7 @@
 <Blacklist><black-thema>RESPEKT</black-thema></Blacklist>
 <Blacklist><black-thema>Radio Bremen Retro – Filme aus dem Archiv</black-thema></Blacklist>
 <Blacklist><black-thema>Radsport: OÖ-Radrundfahrt</black-thema></Blacklist>
+<Blacklist><black-thema>Radsport: Tour of the Alps</black-thema></Blacklist>
 <Blacklist><black-thema>Radsport: Österreichische Meisterschaft</black-thema></Blacklist>
 <Blacklist><black-thema>Rentnercops</black-thema></Blacklist>
 <Blacklist><black-thema>Report</black-thema></Blacklist>
@@ -823,6 +869,7 @@
 <Blacklist><black-thema>SOKO Stuttgart</black-thema></Blacklist>
 <Blacklist><black-thema>SOKO Wien</black-thema></Blacklist>
 <Blacklist><black-thema>SOKO Wismar</black-thema></Blacklist>
+<Blacklist><black-thema>SPORT ABC</black-thema></Blacklist>
 <Blacklist><black-thema>SPORTreportage</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Abendschau</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Das Saarland damals</black-thema></Blacklist>
@@ -883,6 +930,7 @@
 <Blacklist><black-thema>Schneeberichte Oberösterreich</black-thema></Blacklist>
 <Blacklist><black-thema>Schneehöhen Niederösterreich</black-thema></Blacklist>
 <Blacklist><black-thema>Schnell ermittelt Staffel 1</black-thema></Blacklist>
+<Blacklist><black-thema>Schnell ermittelt Staffel 7</black-thema></Blacklist>
 <Blacklist><black-thema>Schnittgut</black-thema></Blacklist>
 <Blacklist><black-thema>School of Champions</black-thema></Blacklist>
 <Blacklist><black-thema>School of Champions Staffel 1</black-thema></Blacklist>
@@ -925,6 +973,7 @@
 <Blacklist><black-thema>Ski nordisch: Seefeld aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Ski-WM Talk</black-thema></Blacklist>
 <Blacklist><black-thema>Skicross-Weltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Skiflug-Weltcup der Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Skiflug-Weltcup der Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Damen Lillehammer HS 98</black-thema></Blacklist>
@@ -961,6 +1010,7 @@
 <Blacklist><black-thema>Soko Donau Staffel 16</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau Staffel 18</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau Staffel 19</black-thema></Blacklist>
+<Blacklist><black-thema>Soko Donau Staffel 20</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau Staffel 3</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau Staffel 4</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau Staffel 5</black-thema></Blacklist>
@@ -989,6 +1039,7 @@
 <Blacklist><black-thema>Soko Kitzbühel Staffel 8</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Kitzbühel Staffel 9</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Linz Staffel 4</black-thema></Blacklist>
+<Blacklist><black-thema>Song Contest 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Space Night</black-thema></Blacklist>
 <Blacklist><black-thema>Spellbound - Verzaubert in Paris Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Sport</black-thema></Blacklist>
@@ -1019,6 +1070,7 @@
 <Blacklist><black-thema>Sportschau DFB-Pokal</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau DFB-Team</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Eishockey</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau FIFA WM 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Fußball</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau HBL</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Handball</black-thema></Blacklist>
@@ -1026,6 +1078,8 @@
 <Blacklist><black-thema>Sportschau Leichtathletik</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Olympia 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Paralympics 2026</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau Radsport</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau Sendung Re-Live</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Tennis</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Tour de France</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau UEFA Frauen-EM</black-thema></Blacklist>
@@ -1053,6 +1107,7 @@
 <Blacklist><black-thema>Super Wings</black-thema></Blacklist>
 <Blacklist><black-thema>Super-G der Damen Zauchensee</black-thema></Blacklist>
 <Blacklist><black-thema>Superhero Academy</black-thema></Blacklist>
+<Blacklist><black-thema>Synchroneiskunstlauf-WM 2026</black-thema></Blacklist>
 <Blacklist><black-thema>Séries et fictions - Séries</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol Heute</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol heute</black-thema></Blacklist>
@@ -1085,6 +1140,7 @@
 <Blacklist><black-thema>Tennis: Davis Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Tennis: Davis-Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Tennis: Erste Bank Open</black-thema></Blacklist>
+<Blacklist><black-thema>Tennis: Upper Austria Ladies</black-thema></Blacklist>
 <Blacklist><black-thema>Thema</black-thema></Blacklist>
 <Blacklist><black-thema>Theodosia</black-thema></Blacklist>
 <Blacklist><black-thema>Theodosia Staffel 1</black-thema></Blacklist>
@@ -1094,6 +1150,7 @@
 <Blacklist><black-thema>Tiere suchen ein Zuhause</black-thema></Blacklist>
 <Blacklist><black-thema>Tierische Freunde</black-thema></Blacklist>
 <Blacklist><black-thema>Tierärztin Dr. Mertens</black-thema></Blacklist>
+<Blacklist><black-thema>Tierärztin Vida Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Tilda Apfelkern</black-thema></Blacklist>
 <Blacklist><black-thema>Tilda Apfelkern Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Tips für Sie</black-thema></Blacklist>
@@ -1101,10 +1158,13 @@
 <Blacklist><black-thema>Tirol heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga-Finale</black-thema></Blacklist>
+<Blacklist><black-thema>Tischtennis: Austria Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis: Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Tischtennis: Österreichische Meisterschaften</black-thema></Blacklist>
 <Blacklist><black-thema>Tobie Lolness</black-thema></Blacklist>
 <Blacklist><black-thema>Tobie Lolness - Kleine Welt, großes Abenteuer</black-thema></Blacklist>
 <Blacklist><black-thema>Tolle Tiere</black-thema></Blacklist>
+<Blacklist><black-thema>Totenfrau Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Totenfrau Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Tour de Suisse -Veloclub</black-thema></Blacklist>
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
@@ -1146,8 +1206,12 @@
 <Blacklist><black-thema>Volleyball Damen Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball Herren Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball WVL Damen</black-thema></Blacklist>
+<Blacklist><black-thema>Volleyball: Austrian Volley League</black-thema></Blacklist>
+<Blacklist><black-thema>Volleyball: Austrian Volley League Damen</black-thema></Blacklist>
+<Blacklist><black-thema>Volleyball: Austrian Volley League Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball: Champions League Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball: Damen Silver League</black-thema></Blacklist>
+<Blacklist><black-thema>Volleyball: Herren Austrian Volley League</black-thema></Blacklist>
 <Blacklist><black-thema>Vom Ahorn bis zur Zwiebel</black-thema></Blacklist>
 <Blacklist><black-thema>Von Rhein, Main und Neckar</black-thema></Blacklist>
 <Blacklist><black-thema>Vorarlberg heute</black-thema></Blacklist>
@@ -1172,6 +1236,7 @@
 <Blacklist><black-thema>Wahl 24 - ZIB Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>Wahl 24 - ZIB Spezial (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>Wahl der Deutschen Weinmajestät</black-thema></Blacklist>
+<Blacklist><black-thema>Wahlen im ZDF</black-thema></Blacklist>
 <Blacklist><black-thema>Walking on Sunshine Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Was geht? Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Was gibt es Neues?</black-thema></Blacklist>
@@ -1235,6 +1300,7 @@
 <Blacklist><black-thema>Wuffel, der Wunderhund</black-thema></Blacklist>
 <Blacklist><black-thema>Yakari</black-thema></Blacklist>
 <Blacklist><black-thema>Yakari Staffel 2</black-thema></Blacklist>
+<Blacklist><black-thema>Yoga Kids Staffel 1</black-thema></Blacklist>
 <Blacklist><black-thema>Yoga Kids Staffel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Yoga Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Yoga-Magazin</black-thema></Blacklist>
@@ -1273,6 +1339,8 @@
 <Blacklist><black-thema>ZIB Flash 16.25</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 17.50</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 19.56</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB KiDS</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB KiDS (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin Kino</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin Klima</black-thema></Blacklist>
@@ -1418,12 +1486,14 @@
 <Blacklist><black-thema>sonntags</black-thema></Blacklist>
 <Blacklist><black-thema>sportaktuell</black-thema></Blacklist>
 <Blacklist><black-thema>sportarena</black-thema></Blacklist>
+<Blacklist><black-thema>sportarena Clubheim</black-thema></Blacklist>
 <Blacklist><black-thema>sportarena am Samstag</black-thema></Blacklist>
 <Blacklist><black-thema>sportarena am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>sportarena extra</black-thema></Blacklist>
 <Blacklist><black-thema>sportlounge</black-thema></Blacklist>
 <Blacklist><black-thema>sportstudio UEFA Champions League</black-thema></Blacklist>
 <Blacklist><black-thema>sportstudio live</black-thema></Blacklist>
+<Blacklist><black-thema>sportstudio live (nicht mehr verwenden)</black-thema></Blacklist>
 <Blacklist><black-thema>sportstudio reportage</black-thema></Blacklist>
 <Blacklist><black-thema>strassenstars</black-thema></Blacklist>
 <Blacklist><black-thema>strassenstars classics</black-thema></Blacklist>
